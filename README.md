@@ -53,5 +53,18 @@ Export or recover files if required for the investigation.
 ## OUTPUT:
 File and Folder Configuration Analysis Results
 
+<img width="1920" height="1200" alt="Screenshot 2025-08-22 094033" src="https://github.com/user-attachments/assets/d0b00491-b8a9-45a3-b20f-e3a72255c5c2" />
+<img width="1920" height="1200" alt="Screenshot 2025-08-22 092002" src="https://github.com/user-attachments/assets/fc4a1831-160c-4ff2-b091-34fdb1ac803c" />
+
+
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-22 093743" src="https://github.com/user-attachments/assets/9cd30a1b-5750-4b57-8967-1b9db25d0ae1" />
+
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-22 093755" src="https://github.com/user-attachments/assets/02f3a4bf-c2ce-4d01-9d63-6f19b97aac28" />
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-22 093807" src="https://github.com/user-attachments/assets/51e16bc4-0dd2-4a10-b0d2-38de0b8eb8dc" />
+
+
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
